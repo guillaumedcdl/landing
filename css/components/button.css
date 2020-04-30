@@ -1,0 +1,11 @@
+.button-first {
+    display: inline-block;
+    background-color: #054A29;
+    padding: 16px 36px;
+    border-radius: 50px;
+    color: white;
+}
+
+.button-first:hover {
+  opacity: 0.9;
+}
